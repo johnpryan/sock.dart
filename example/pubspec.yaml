@@ -1,0 +1,5 @@
+name: sock example
+dependencies:
+  browser: any
+  sock:
+    path: ..
